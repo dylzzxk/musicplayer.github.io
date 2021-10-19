@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "77697",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "f010d",
+      "unicode_decimal": 983309
+    },
+    {
+      "icon_id": "1463636",
+      "name": "视频",
+      "font_class": "video",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "6500758",
+      "name": "头像",
+      "font_class": "touxiang",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "8371708",
+      "name": "MV",
+      "font_class": "MV",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "19701909",
+      "name": "文件夹添加",
+      "font_class": "folder-add",
+      "unicode": "eba5",
+      "unicode_decimal": 60325
+    }
+  ]
+}
